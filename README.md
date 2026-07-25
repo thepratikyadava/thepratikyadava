@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student.<br>Right now working on playwright tools for automation and learning cybersecurity<br> <br>Aspiring to learn Python and DSA
+I am a student.<br>Right now working on completing AI and ML <br> <br>Aspiring to learn Python and DSA
 
 
 ## 🌐 Socials:
